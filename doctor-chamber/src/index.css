@@ -1,0 +1,91 @@
+.navbar-container a {
+    text-align: center;
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: 25px;
+    color: black;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px;
+}
+
+.home-container {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tip {
+    background-color: skyblue;
+    padding: 1px 50px;
+}
+
+select,
+input {
+    width: 325px;
+    display: block;
+    padding: 5px 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+select {
+    width: 350px;
+}
+
+.submit {
+    width: 350px;
+    background-color: skyblue;
+    border: none;
+
+}
+
+
+.text-center {
+    text-align: center;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 20px;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+.appo-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    
+}
+
+th{
+    padding: 20px;
+    border: 1px solid skyblue;
+    background-color: whitesmoke;
+}
+
+.pay{
+    cursor: pointer;
+}

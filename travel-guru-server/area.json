@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "place": "Cox,s Bazar",
+      "img_url": "https://i.ibb.co/GtKLTT2/Rectangle-1.png",
+      "name" : "Cox,s Bazar",
+      "description" : "Cox's Bazar (/ˌkɒksɪz bəˈzɑː/; Bengali: কক্সবাজার, romanized: Kôksbajar; pronounced [kɔksbadʒaɾ]) is a city, fishing port, tourism centre, and district headquarters in Southeastern Bangladesh. It is located 150 km (93 mi) south of the city of Chittagong. Cox's Bazar is also known by the name Panowa, which translates literally as yellow flower. Another old name was Palongkee."
+    },
+    {
+      "id": 2,
+      "place": "Sreemongol",
+      "img_url": "https://i.ibb.co/p13fjbq/Sreemongol.png",
+      "name" : "Sreemongol",
+      "description"  : "Sreemangal (Bengali: শ্রীমঙ্গল, romanized: Srimongol) is an upazila of Moulvibazar District[1] in the Sylhet Division of Bangladesh. It is located at the southwest of the district, and borders the Habiganj District to the west and the Indian state of Tripura to the south. Sreemangal is often referred to as the 'tea capital' of Bangladesh, and is most famous for its tea fields. Other than tea, the rubber, pineapple, wood, betel, and lemon industries also exist in the upazila.[2]"
+    },
+    {
+      "id": 3,
+      "place": "Sundorbon",
+      "img_url": "https://i.ibb.co/VwmsQmc/sundorbon.png",
+      "name" : "Sundorbon",
+      "description" : "Sundarbans (pronounced /sʌnˈdɑːrbənz/) is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. Sundarban Reserve Forest (SRF) of Bangladesh is the largest mangrove forest in the world. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal. It comprises closed and open mangrove forests, land used for agricultural purpose, mudflats and barren land, and is intersected by multiple tidal streams and channels. Sundarbans is home to the world's"
+    }
+]

@@ -1,0 +1,11 @@
+First   I will do the header and navigation bar
+second  marquee and latest updated for news or moment js
+third   make the left nav
+fourth  make the right nav
+fifth   create the main content for a page
+sixth   slice the description 0 to 250 and show all description text on the details page . make ratings using react ratings
+seventh remove left nav from details page
+eigth   create signup form using firebase authentication
+ninth   create login form with firebase auth 
+tenth   firebase connected with google , github, twitter, facebook
+eleben 

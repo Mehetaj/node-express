@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-search {
+    width: 370px;
+    height: 44px;
+    left: 335px;
+    top: 39px;
+
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+
+button {
+    width: 104px;
+    height: 44px;
+    left: 1192px;
+    top: 39px;
+
+    background: #F9A51A;
+    border-radius: 5px;
+}
+
+a {
+    margin-left: 30px;
+}
+
+.logo {
+    width: 120.26px;
+}
+
+.login-container {
+    width: 570px;
+    height: 457px;
+    left: 438px;
+    top: 171px;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+}
+
+.border-bottom {
+    width: 461px;
+    height: 0px;
+    left: 493px;
+    top: 323px;
+
+    border: 1px solid #C5C5C5;
+}
+
+.submit {
+    width: 461px;
+    height: 50px;
+    left: 493px;
+    top: 502px;
+    margin-top: 30px;
+    background: #F9A51A;
+}
+
+.bt {
+    width: 200px;
+    height: 0px;
+    left: 506px;
+    top: 663px;
+
+    border: 1px solid #AAAAAA;
+}
+
+.popup-login {
+    width: 461px;
+    height: 51px;
+    left: 492px;
+    top: 696px;
+
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    border-radius: 57px;
+}
+
+.signup-container {
+    width: 570px;
+    height: 741px;
+    left: 435px;
+    top: 130px;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+}
